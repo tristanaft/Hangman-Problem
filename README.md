@@ -1,3 +1,4 @@
+# Hangman Problem
 Python project inspired by the Trequant problem.
 
 You are given an initial test data set of the training dictionary, and use it to predict words in a larger test dictionary.
